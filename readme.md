@@ -1,6 +1,6 @@
 # Jade's dotfiles
 ### Dependencies
-- (Starship)[starship.rs]
+- [Starship](starship.rs)
 - VSCode
 ## starship.toml
 This is what my shell looks like, I use Bash with Starship, it also looks pretty similar to the shell in tauOS :wink:
