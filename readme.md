@@ -1,4 +1,5 @@
 # Jade's dotfiles
+## Repo still under construction! I'm adding more configs and an installer!
 ### Dependencies
 - [Starship](starship.rs)
 - VSCode
