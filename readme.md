@@ -2,4 +2,5 @@
 ## Repo still under construction! I'm adding more configs and an installer!
 
 ## Special Thanks to:
-Martin Wimpress (flexiondotorg)[https://github.com/flexiondotorg]
+[Martin Wimpress](https://github.com/flexiondotorg)
+[Jeremy Soller](https://github.com/jackpot51)
